@@ -1,1 +1,7 @@
-
+---
+title: 
+summary: this is a simple layout with a cover image. the cover image is set in the front matter of the markdown file.
+postLayout: simple
+date: '2024-02-12'
+cover: '@/assets/og-image.png'
+---
